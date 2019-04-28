@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal"//使用 Vs code控制台编译
             //"console": "externalTerminal"//使用深度的环境显示
-            //"console": "none"//无窗口
+            //"console": "internalConsole"//无窗口
         },
         {
             "name": "Python: Remote Attach",
