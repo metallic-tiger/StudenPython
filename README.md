@@ -4,9 +4,9 @@
 目前的学习的的进度
 
 1.基础语法 分支循环
-2.GUI图形界面 tkinter库 -键盘消息
+2.GUI图形界面 tkinter库
 3.正则表达式    re库    正则表达式匹配
 
 学习目标 
-1.Numpy库
+1.Numpy库-array广播
 2.OpenCV CV2库
