@@ -60,6 +60,13 @@ def main():
     
     
     '''
+    '''
+        同一个线程不能被多次启动
+        否则会报错
+
+        threads[0].start()
+        threads[0].run()
+        '''
     threads[4].daemon=True
     for i in threads:
         #启动线程
@@ -89,13 +96,6 @@ def main():
     for i in threads:
         print(i.getName(), ' 线程是否存活 ： ', i.isAlive())
         time.sleep(1)
-    '''
-    同一个线程不能被多次启动
-    否则会报错
-    
-    threads[0].start()
-    threads[0].run()
-    '''
 
 
 if __name__ =='__main__':

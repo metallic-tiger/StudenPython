@@ -1,12 +1,20 @@
 # StudenPython
 # 这是我学习python 和 Git 的笔记本（代码本？）
 
+缺失的笔记进度
+
+numpy模块
+pandas模块
+
+
+
 目前的学习的的进度
+1.tensorflow-优化器，训练器
+2.
 
-1.基础语法 分支循环
-2.GUI图形界面 tkinter库
-3.正则表达式    re库    正则表达式匹配
+学习目标
+1.tensorflow库与机器学习
 
-学习目标 
-1.Numpy库-array广播
-2.OpenCV CV2库
+2.python设计模式
+
+3.OpenCV CV2库
